@@ -11,3 +11,5 @@ The model can be trained using backpropagation, which adjusts the weights of the
 Finally, the trained model can be applied to the testing set to evaluate its performance in predicting customer churn. The accuracy, precision, recall, and F1 score can be used to assess the model's performance, and the model can be further optimized based on these metrics.
 
 In summary, customer churn prediction using ANN involves collecting and preprocessing data, constructing and training an ANN model with multiple layers of neurons and backpropagation, tuning hyperparameters with a validation set, and evaluating performance on a testing set.
+
+CLICK HERE --> https://github.com/Tama101/Churn-Prediction-Using-ANN-Deep-Learning/blob/main/h8dsft_P2M1_pratama.ipynb
